@@ -1,0 +1,99 @@
+h1{
+ color: rgb(119, 136, 153); 
+ font-framily:cursive;
+text-align:center;
+}
+h2{
+ color:rgb(169,169,169) ; 
+ font-framily:courier new;
+}
+
+ h3{ 
+ color:rgb(112, 128, 144);
+ font-framily:courier new;
+text-align:center;
+ }
+h4{
+ color:rgb(128, 128, 128); 
+ font-framily:courier new;
+text-align:right;
+}
+ h5{ 
+color:rgb(105, 105, 105);
+ font-framily:courier new;
+text-align:justyfi;
+ }
+p{
+color:rgb(176, 196, 222);
+ font-framily:courier new;
+} 
+ol{
+color:rgb(176, 196, 222);
+ font-framily:courier new;
+} 
+iframe{
+text-align:center;
+}
+table{
+color:rgb(128, 128, 128);
+ font-framily:courier new;
+background-color:rgb(176, 196, 222)
+}
+b{
+text-align:center;
+}
+
+h6{ 
+color:rgb(0, 0, 255);
+ font-framily:calibri;
+text-align:right;
+}
+@media(min-width:400px){
+ h1{
+  font-size:80%;
+    }
+      h2{
+    font-size:80%;
+        }
+          h3{
+         font-size:80%;   
+            }
+             h4{
+            font-size:80%;
+               }
+           h5{
+           font-size:80%;    
+             }
+         p{
+       font-size:80%;
+          }
+  table{
+     font-size:80%;
+       }
+}
+@ media(max-width:1000px){
+ h1{
+  font-size:150%;
+    }
+      h2{
+    font-size:150%;
+        }
+          h3{
+         font-size:150%;   
+            }
+             h4{
+            font-size:150%;
+               }
+           h5{
+           font-size:150%;    
+             }
+         p{
+       font-size:150%;
+          }
+  table{
+     font-size:150%;
+       }
+}
+
+</body>
+</html>
